@@ -1,1 +1,1 @@
-# fogyokura.py
+# Digitalis_kultura
